@@ -1,1 +1,6 @@
 my new file
+
+This is my first GIT
+
+
+Now You See Me
